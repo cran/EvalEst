@@ -1043,14 +1043,14 @@ genMineData <- function(umodel, ymodel, uinput=NULL, sampleT=100,
  r
 }
 
-build.input.models <- function(all.data, max.lag=NULL)
+build.input.models <- function(data, max.lag=NULL)
 {# make a list of univariate models, one for each series in inputData(data)
  #   for use by build.diagonal.model. 
- n <- nseriesInput(all.data)
+ n <- nseriesInput(data)
  multi.models <- vector("list", n)
  for (i in seq(n))
-   {data <-trimNA(TSdata(output= inputData(all.data, series=i)))
-    multi.models[[i]] <- TSmodel(estVARXls(data, max.lag=max.lag))
+   {d <-trimNA(TSdata(output= inputData(data, series=i)))
+    multi.models[[i]] <- TSmodel(estVARXls(d, max.lag=max.lag))
    }
  multi.models
 }
