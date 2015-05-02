@@ -1,11 +1,12 @@
-16c745d2dcce03926a400a27dff8a4c0 *DESCRIPTION
-a3bc52a3f49739571923e3d764aef95d *NAMESPACE
-d87003c7195f11303f964e1f6374f234 *NEWS
+6b06518d786d310766a1da3cc7ac9112 *DESCRIPTION
+b4eff6ecd5849bc4e1d334f67da0b330 *NAMESPACE
+311f87c3c79611ba8cc7316a17f0fea7 *NEWS
 408a12e53fa9c371f86693b484f43176 *R/EvalEst.R
+9fd85b1b372006fbe7970667f2902ed5 *build/vignette.rds
 13cbf1de48d6e5862bf3c5841b8eb9b0 *demo/00Index
 e7a29eee52b6f2763ede455dc5b605a8 *demo/eval.estimation.R
-373b55d36c8faab83fa340cd4c4fdc97 *inst/doc/Guide.Stex
-7487ea320e10b0afbbf39b5cee8953ba *inst/doc/Guide.pdf
+5758768a38f5dc50ff7fd78630284303 *inst/doc/Guide.Stex
+ad9f073733bd741de49fe2c31c63ddf2 *inst/doc/Guide.pdf
 2706aac0936c6bb06ac2bde28285da4d *man/EstEval.Rd
 9c3b5b26d4b40627436e983c1d78c050 *man/MonteCarloSimulations.Rd
 40350ca614fdeeadf6e0be7d4d249f21 *man/TSdata.coefEstEval.Rd
@@ -28,4 +29,4 @@ b239c40c0825e35cfd3fc105d4ba523d *man/tfplot.coefEstEval.Rd
 6b73f492c346c40cd2f6c9e5fbfd4bff *tests/dse2tst3.R
 9b24e272b4c3958b5a9ee806298a2469 *tests/dse2tst4.R
 45a45762db788d2fcb57f64beb44c633 *tests/dse2tstgd2.R
-373b55d36c8faab83fa340cd4c4fdc97 *vignettes/Guide.Stex
+5758768a38f5dc50ff7fd78630284303 *vignettes/Guide.Stex
