@@ -1,5 +1,5 @@
 Package: EvalEst
-Version: 2021.2-1
+Version: 2024.2-1
 Title: Dynamic Systems Estimation - Extensions
 Description: Provides functions for evaluating (time series) model
 	estimation methods. These facilitate Monte Carlo experiments of repeated
@@ -16,6 +16,6 @@ Author: Paul Gilbert <pgilbert.ttv9z@ncf.ca>
 Maintainer: Paul Gilbert <pgilbert.ttv9z@ncf.ca>
 URL: http://tsanalysis.r-forge.r-project.org/
 NeedsCompilation: no
-Packaged: 2021-02-28 23:44:23 UTC; paul
+Packaged: 2024-02-17 20:12:50 UTC; paul
 Repository: CRAN
-Date/Publication: 2021-03-02 23:00:09 UTC
+Date/Publication: 2024-02-18 14:40:05 UTC
